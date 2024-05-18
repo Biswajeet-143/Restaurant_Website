@@ -29,6 +29,7 @@
     padding:7px 14px;
     border: 2px solid rgb(0, 0, 0);
     border-radius: 7px;
+    font-weight: bold;
 }
 
 
@@ -90,5 +91,8 @@
 }
 #hid{
     visibility: hidden;
+}
+.text{
+    font-size: 3rem;
 }
 }
