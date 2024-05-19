@@ -224,10 +224,12 @@ h1{
         display: none;
     }
 
+
     #f33{
-        font-size: 1.1rem;
+        font-size: 0.8rem;
     }
-    #footer{
-        height: 20vh;
+
+    .sect2{
+        font-size: 0.8rem;
     }
 }
